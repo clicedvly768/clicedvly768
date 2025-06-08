@@ -1,10 +1,7 @@
 - 👋 Hi, I’m @clicedvly768
-- 👀 I’m interested in game minecraaft
-- 🌱 I’m currently learning C#, phyton
-- 💞️ I’m looking to collaborate on pyak
-- 📫 How to reach me pyak
-- 😄 Pronouns: pyak
-- ⚡ Fun fact: pyak
+- 👀 I’m interested in game Minecraft, CS2, Left 4 dead 1/2
+- 🌱 I’m currently learning Phyton
+
 
 <!---
 clicedvly768/clicedvly768 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
