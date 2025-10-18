@@ -1,6 +1,6 @@
 I Clicedvly768, Python, C++ programmer, learning Kotlin, Matrix: clicedvly768:matrix.org, Telegram: Clicedvly768, Discord: clicedvly76 #antivk
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clicedvly768)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 clicedvly768/clicedvly768 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
